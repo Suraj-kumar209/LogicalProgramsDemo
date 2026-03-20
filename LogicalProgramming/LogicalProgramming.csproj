@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>LogicalProgramming.Factorial</StartupObject>
+	  <StartupObject>LogicalProgramming.ReverseWords</StartupObject>
   </PropertyGroup>
 
 </Project>

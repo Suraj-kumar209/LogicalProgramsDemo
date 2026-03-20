@@ -12,3 +12,4 @@ C:\Users\user\Desktop\LogicalProgramming\LogicalProgramming\obj\Debug\net8.0\ref
 C:\Users\user\Desktop\LogicalProgramming\LogicalProgramming\obj\Debug\net8.0\LogicalProgramming.pdb
 C:\Users\user\Desktop\LogicalProgramming\LogicalProgramming\obj\Debug\net8.0\LogicalProgramming.genruntimeconfig.cache
 C:\Users\user\Desktop\LogicalProgramming\LogicalProgramming\obj\Debug\net8.0\ref\LogicalProgramming.dll
+C:\Users\user\Desktop\LogicalProgramming\LogicalProgramming\obj\Debug\net8.0\LogicalProgramming.sourcelink.json
